@@ -1,5 +1,4 @@
 Nombre del aprendiz: Luis Miguel Briceño Díaz
-Evidencia: GA7-220501096-AA4-EV03
 
 Descripción:
 Este proyecto corresponde al desarrollo del componente frontend de un sistema de inventario de bebidas utilizando React JS.
