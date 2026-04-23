@@ -18,3 +18,4 @@ Instrucciones de ejecución:
 2. npm start
 
 Repositorio GitHub:
+https://github.com/Miguelbco/inventario-frontend.git
